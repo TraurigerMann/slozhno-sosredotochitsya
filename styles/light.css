@@ -19,23 +19,18 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    --title-color: #db00ff;
-    --heading-text: #db00ff;
-    --accent-color: #ff0070;
-    --section-title-color: #ff0070;
-    --article-title-color: var(--background-color);
-    --article-text-color: var(--title-shadow);
-    --subtitle-color: #000028;
-    --link-shadow: var(--title-shadow);
-    --bg-color: #000028;
-    --border-bottom: #f1b2ce;
-    --text-color: #f1b2ce;
-    --border-color: #ff0070;
-
+    --accent-color: #ff8dcb;
+    --bg-color: #fff1f7;
+    --subtitle-color: #353430;
+    --text-color: #353430;
+    --section-title-color: #353430;
+    --article-title-color: #353430;
+    --border-color: #353430;
+    --border-bottom: #353430;
+    --section-article-text: #353430;
+    --heading-text: #ffc2e6;
+    --bg-image: url(../images/cover-image-light.png);
     --secondary-color: var(--color-black, #35343040);
-    --section-title-color: var(--title-shadow);
-    --title-decor: var(--title-shadow);
-    --rec-color: var(--title-shadow);
 
     .decor {
       display: none;

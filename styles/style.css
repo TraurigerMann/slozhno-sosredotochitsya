@@ -298,7 +298,7 @@
   margin: 0;
 }
 
-.dark-title {
+.gallery-title {
   color: var(--subtitle-color, #000028);
   background-color: var(--accent-color, #ff0070);
   max-width: none;
